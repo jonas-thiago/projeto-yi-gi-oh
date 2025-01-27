@@ -1,2 +1,2 @@
-# projeto-yi-gi-oh
+# projeto-yu-gi-oh
 projeto realizado com o canal dem em dobro
